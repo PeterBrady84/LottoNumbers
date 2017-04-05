@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lotto Numbers</string>
+    <string name="lotto_image">Lotto Header Image</string>
+    <string name="number_label">Pick %1$s numbers from 1 to %2$s</string>
+    <string name="empty_value">Required Field!</string>
+    <string name="invalid_value">Max must be > Numbers to pick!</string>
+    <string name="pick_button">Pick</string>
+    <string name="action_settings">Settings</string>
+    <string name="how_many">6</string>
+    <string name="max">45</string>
+</resources>
